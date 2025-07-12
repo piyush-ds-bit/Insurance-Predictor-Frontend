@@ -9,7 +9,7 @@ Users can fill in a simple form, and the app sends data to the backend via HTTP 
 ## 🚀 Features
 
 - 📋 Simple and clean form UI (Streamlit)
-- 🔗 Integrates seamlessly with FastAPI via REST API
+- 🔗 Integrates seamlessly with FastAPI
 - 📊 Displays predicted premium category and class probabilities
 - 🧠 Powered by a machine learning model hosted in the backend
 
